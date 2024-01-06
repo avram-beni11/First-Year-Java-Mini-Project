@@ -1,0 +1,7 @@
+**********************
+Location: 18 Block Avenue
+Restaurant Type: English
+Rating: 4.0
+Name: John Adams' Chip Shop
+Extra Comment: Food is nice. Place itself could do with a makeover.
+**********************

@@ -1,0 +1,7 @@
+**********************
+Location: 1 Bleecker Street
+Restaurant Type: Korean
+Rating: 4.6
+Name: Eat Seoul
+Extra Comment: Amazing food, staff are polite. Would eat here again.
+**********************

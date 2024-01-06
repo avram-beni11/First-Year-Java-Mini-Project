@@ -1,0 +1,7 @@
+**********************
+Location: 23 Beachside Road
+Restaurant Type: Spanish
+Rating: 3.9
+Name: Manuel & Sons
+Extra Comment: Good food. Slow Customer Service.
+**********************

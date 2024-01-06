@@ -1,0 +1,7 @@
+**********************
+Location: 12 Hendon Street
+Restaurant Type: French
+Rating: 5.0
+Name: Shino's French
+Extra Comment: Amazing hospitality. Food is fantastic. Customer service too.
+**********************

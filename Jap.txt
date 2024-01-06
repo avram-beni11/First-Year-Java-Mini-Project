@@ -1,0 +1,7 @@
+**********************
+Location: 4 Hendon
+Restaurant Type: Japanese
+Rating: 4.3
+Name: Jap
+Extra Comment: Good
+**********************
